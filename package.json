@@ -41,7 +41,7 @@
     "body-parser": "^1.12.4"
   },
   "dependencies": {
-    "dropzone": "^4.0.1"
+    "dropzone": "git@github.com:chiedojohn/dropzone.git"
   },
   "scripts": {
     "debug": "gulp --debug",
